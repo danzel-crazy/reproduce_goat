@@ -1,0 +1,11 @@
+# data 
+data/
+
+# python cache 
+__pycache__/
+
+# vscode settings
+.vscode/
+
+# output checkpoints
+output/
